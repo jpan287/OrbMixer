@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>BlueOrb.png</Source>
+      <Name>BlueOrb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\visitordl5\documents\visual studio 2015\Projects\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\BlueOrb.xnb</Output>
+      <Time>2017-01-15T14:26:08.6075576-08:00</Time>
+    </Item>
+    <Item>
+      <Source>GreenOrb.png</Source>
+      <Name>GreenOrb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\visitordl5\documents\visual studio 2015\Projects\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\GreenOrb.xnb</Output>
+      <Time>2017-01-15T14:25:56.7615901-08:00</Time>
+    </Item>
+    <Item>
+      <Source>PurpleOrb.png</Source>
+      <Name>PurpleOrb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\visitordl5\documents\visual studio 2015\Projects\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\PurpleOrb.xnb</Output>
+      <Time>2017-01-15T14:26:47.7968966-08:00</Time>
+    </Item>
+    <Item>
+      <Source>RedOrb.png</Source>
+      <Name>RedOrb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\visitordl5\documents\visual studio 2015\Projects\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\RedOrb.xnb</Output>
+      <Time>2017-01-15T14:26:23.3983497-08:00</Time>
+    </Item>
+    <Item>
+      <Source>YellowOrb.png</Source>
+      <Name>YellowOrb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\visitordl5\documents\visual studio 2015\Projects\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\YellowOrb.xnb</Output>
+      <Time>2017-01-15T14:26:36.3840678-08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{953A0A8D-F45D-44A6-9311-3FA35B206BCB}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>c:\users\visitordl5\documents\visual studio 2015\Projects\OrbMixer\OrbMixer\OrbMixerContent\</RootDirectory>
+      <LoggerRootDirectory>c:\users\visitordl5\documents\visual studio 2015\Projects\OrbMixer\OrbMixer\OrbMixer\</LoggerRootDirectory>
+      <IntermediateDirectory>c:\users\visitordl5\documents\visual studio 2015\Projects\OrbMixer\OrbMixer\OrbMixer\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>c:\users\visitordl5\documents\visual studio 2015\Projects\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-09-15T20:05:53.1021331-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
