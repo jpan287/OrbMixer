@@ -28,8 +28,8 @@ namespace OrbMixer
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
-            graphics.PreferredBackBufferWidth = 1800;
-            graphics.PreferredBackBufferHeight = 900;
+            graphics.PreferredBackBufferWidth = 800;
+            graphics.PreferredBackBufferHeight = 1000;
             IsMouseVisible = true;
         }
 
@@ -77,7 +77,7 @@ namespace OrbMixer
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
                 this.Exit();
 
-            // TODO: Add your update logic here
+            testRow.Update(gameTime);
 
             base.Update(gameTime);
         }
