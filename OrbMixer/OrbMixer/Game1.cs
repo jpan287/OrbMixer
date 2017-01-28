@@ -22,7 +22,8 @@ namespace OrbMixer
         Orb purpleOrb;
         Orb redOrb;
         Orb yellowOrb;
-        OrbRow testRow;
+        OrbGraph testRow;
+        KeyboardState ks;
 
         public Game1()
         {
@@ -47,6 +48,7 @@ namespace OrbMixer
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
             row = new List<Orb>();
+            ks = new KeyboardState();
 
             blueOrb = new Orb(Content.Load<Texture2D>("BlueOrb"), new Vector2(0, 0), Color.White);
             greenOrb = new Orb(Content.Load<Texture2D>("GreenOrb"), new Vector2(0, 0), Color.White);
@@ -59,7 +61,8 @@ namespace OrbMixer
             row.Add(redOrb);
             row.Add(yellowOrb);
 
-            testRow = new OrbRow(new Vector2(0, 0), Color.White, row);
+            
+            
 
             // TODO: use this.Content to load your game content here
         }
@@ -77,7 +80,7 @@ namespace OrbMixer
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
                 this.Exit();
 
-            testRow.Update(gameTime);
+            testRow.Update(gameTime, ks);
 
             base.Update(gameTime);
         }
