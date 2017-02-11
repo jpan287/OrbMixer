@@ -29,7 +29,7 @@ namespace OrbMixer
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
-            graphics.PreferredBackBufferWidth = 800;
+            graphics.PreferredBackBufferWidth = 1200;
             graphics.PreferredBackBufferHeight = 1000;
             IsMouseVisible = true;
         }
@@ -55,6 +55,7 @@ namespace OrbMixer
             purpleOrb = new Orb(Content.Load<Texture2D>("PurpleOrb"), new Vector2(0, 0), Color.White);
             redOrb = new Orb(Content.Load<Texture2D>("RedOrb"), new Vector2(0, 0), Color.White);
             yellowOrb = new Orb(Content.Load<Texture2D>("YellowOrb"), new Vector2(0, 0), Color.White);
+            testRow = new OrbGraph(Content);
             row.Add(blueOrb);
             row.Add(greenOrb);
             row.Add(purpleOrb);

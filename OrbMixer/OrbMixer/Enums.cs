@@ -12,4 +12,12 @@ namespace OrbMixer
         Left,
         Right
     }
+    public enum OrbColor
+    {
+        Blue,
+        Green,
+        Purple,
+        Red,
+        Yellow
+    }
 }

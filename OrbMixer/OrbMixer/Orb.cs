@@ -9,9 +9,12 @@ namespace OrbMixer
 {
     public class Orb : Sprite
     {
-
-
-
+        private Vector2 orbPos;
+        public Vector2 OrbPos
+        {
+            get { return orbPos; }
+            set { orbPos = value; }
+        }
         public Texture2D Texture
         {
             get { return _texture; }
@@ -20,6 +23,12 @@ namespace OrbMixer
         {
             get { return _position; }
             set { _position = value; }
+        }
+        public OrbColor colors;
+
+        public Orb(Orb toCopy) : base(toCopy._texture, toCopy._position, toCopy._color)
+        {
+
         }
 
         public Orb(Texture2D texture, Vector2 position, Color color)
@@ -32,6 +41,7 @@ namespace OrbMixer
         {
 
         }
+
         public override void Draw(SpriteBatch spritebatch)
         {
             base.Draw(spritebatch);

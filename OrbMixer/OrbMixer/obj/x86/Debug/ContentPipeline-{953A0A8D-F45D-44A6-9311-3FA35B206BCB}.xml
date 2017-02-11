@@ -7,8 +7,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\JohnnyPan\Documents\Visual Studio 2015\Projects\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\SwirlyBlue.xnb</Output>
       <Time>2017-01-28T14:34:34.8124286-08:00</Time>
+=======
+      <Output>\\GMRSHARED\Xfers\Students\Blue Class\JohnnyPan\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\SwirlyBlue.xnb</Output>
+      <Time>2017-01-28T14:34:34-08:00</Time>
+>>>>>>> origin/master
     </Item>
     <Item>
       <Source>SwirlyGreen.png</Source>
@@ -16,8 +21,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\JohnnyPan\Documents\Visual Studio 2015\Projects\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\SwirlyGreen.xnb</Output>
       <Time>2017-01-28T14:34:34.8134299-08:00</Time>
+=======
+      <Output>\\GMRSHARED\Xfers\Students\Blue Class\JohnnyPan\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\SwirlyGreen.xnb</Output>
+      <Time>2017-01-28T14:34:34-08:00</Time>
+>>>>>>> origin/master
     </Item>
     <Item>
       <Source>SwirlyPurple.png</Source>
@@ -25,8 +35,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\JohnnyPan\Documents\Visual Studio 2015\Projects\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\SwirlyPurple.xnb</Output>
       <Time>2017-01-28T14:34:34.8144299-08:00</Time>
+=======
+      <Output>\\GMRSHARED\Xfers\Students\Blue Class\JohnnyPan\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\SwirlyPurple.xnb</Output>
+      <Time>2017-01-28T14:34:34-08:00</Time>
+>>>>>>> origin/master
     </Item>
     <Item>
       <Source>SwirlyRed.png</Source>
@@ -34,8 +49,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\JohnnyPan\Documents\Visual Studio 2015\Projects\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\SwirlyRed.xnb</Output>
       <Time>2017-01-28T14:34:34.8154288-08:00</Time>
+=======
+      <Output>\\GMRSHARED\Xfers\Students\Blue Class\JohnnyPan\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\SwirlyRed.xnb</Output>
+      <Time>2017-01-28T14:34:34-08:00</Time>
+>>>>>>> origin/master
     </Item>
     <Item>
       <Source>SwirlyYellow.png</Source>
@@ -43,8 +63,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\JohnnyPan\Documents\Visual Studio 2015\Projects\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\SwirlyYellow.xnb</Output>
       <Time>2017-01-28T14:34:34.8164313-08:00</Time>
+=======
+      <Output>\\GMRSHARED\Xfers\Students\Blue Class\JohnnyPan\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\SwirlyYellow.xnb</Output>
+      <Time>2017-01-28T14:34:34-08:00</Time>
+>>>>>>> origin/master
     </Item>
     <Item>
       <Source>BlueOrb.png</Source>
@@ -52,8 +77,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\JohnnyPan\Documents\Visual Studio 2015\Projects\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\BlueOrb.xnb</Output>
       <Time>2017-01-28T14:34:34.8034304-08:00</Time>
+=======
+      <Output>\\GMRSHARED\Xfers\Students\Blue Class\JohnnyPan\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\BlueOrb.xnb</Output>
+      <Time>2017-01-28T14:34:34-08:00</Time>
+>>>>>>> origin/master
     </Item>
     <Item>
       <Source>GreenOrb.png</Source>
@@ -61,8 +91,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\JohnnyPan\Documents\Visual Studio 2015\Projects\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\GreenOrb.xnb</Output>
       <Time>2017-01-28T14:34:34.8044305-08:00</Time>
+=======
+      <Output>\\GMRSHARED\Xfers\Students\Blue Class\JohnnyPan\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\GreenOrb.xnb</Output>
+      <Time>2017-01-28T14:34:34-08:00</Time>
+>>>>>>> origin/master
     </Item>
     <Item>
       <Source>PurpleOrb.png</Source>
@@ -70,8 +105,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\JohnnyPan\Documents\Visual Studio 2015\Projects\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\PurpleOrb.xnb</Output>
       <Time>2017-01-28T14:34:34.8094287-08:00</Time>
+=======
+      <Output>\\GMRSHARED\Xfers\Students\Blue Class\JohnnyPan\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\PurpleOrb.xnb</Output>
+      <Time>2017-01-28T14:34:34-08:00</Time>
+>>>>>>> origin/master
     </Item>
     <Item>
       <Source>RedOrb.png</Source>
@@ -79,8 +119,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\JohnnyPan\Documents\Visual Studio 2015\Projects\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\RedOrb.xnb</Output>
       <Time>2017-01-28T14:34:34.8114285-08:00</Time>
+=======
+      <Output>\\GMRSHARED\Xfers\Students\Blue Class\JohnnyPan\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\RedOrb.xnb</Output>
+      <Time>2017-01-28T14:34:34-08:00</Time>
+>>>>>>> origin/master
     </Item>
     <Item>
       <Source>YellowOrb.png</Source>
@@ -88,8 +133,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\JohnnyPan\Documents\Visual Studio 2015\Projects\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\YellowOrb.xnb</Output>
       <Time>2017-01-28T14:34:34.8174298-08:00</Time>
+=======
+      <Output>\\GMRSHARED\Xfers\Students\Blue Class\JohnnyPan\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\YellowOrb.xnb</Output>
+      <Time>2017-01-28T14:34:34-08:00</Time>
+>>>>>>> origin/master
     </Item>
     <Item>
       <Source>SwirlyRainbow.png</Source>
@@ -97,8 +147,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\JohnnyPan\Documents\Visual Studio 2015\Projects\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\SwirlyRainbow.xnb</Output>
       <Time>2017-01-28T14:34:34.8144299-08:00</Time>
+=======
+      <Output>\\GMRSHARED\Xfers\Students\Blue Class\JohnnyPan\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\SwirlyRainbow.xnb</Output>
+      <Time>2017-01-28T14:34:34-08:00</Time>
+>>>>>>> origin/master
     </Item>
     <Item>
       <Source>RainbowOrb.png</Source>
@@ -106,8 +161,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\JohnnyPan\Documents\Visual Studio 2015\Projects\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\RainbowOrb.xnb</Output>
       <Time>2017-01-28T14:34:34.8104288-08:00</Time>
+=======
+      <Output>\\GMRSHARED\Xfers\Students\Blue Class\JohnnyPan\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\RainbowOrb.xnb</Output>
+      <Time>2017-01-28T14:34:34-08:00</Time>
+>>>>>>> origin/master
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -116,10 +176,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\JohnnyPan\Documents\Visual Studio 2015\Projects\OrbMixer\OrbMixer\OrbMixerContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\JohnnyPan\Documents\Visual Studio 2015\Projects\OrbMixer\OrbMixer\OrbMixer\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\JohnnyPan\Documents\Visual Studio 2015\Projects\OrbMixer\OrbMixer\OrbMixer\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\JohnnyPan\Documents\Visual Studio 2015\Projects\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>\\GMRSHARED\Xfers\Students\Blue Class\JohnnyPan\OrbMixer\OrbMixer\OrbMixerContent\</RootDirectory>
+      <LoggerRootDirectory>\\GMRSHARED\Xfers\Students\Blue Class\JohnnyPan\OrbMixer\OrbMixer\OrbMixer\</LoggerRootDirectory>
+      <IntermediateDirectory>\\GMRSHARED\Xfers\Students\Blue Class\JohnnyPan\OrbMixer\OrbMixer\OrbMixer\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>\\GMRSHARED\Xfers\Students\Blue Class\JohnnyPan\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
@@ -148,7 +208,7 @@
       </Assembly>
       <Assembly>
         <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2016-09-15T21:29:48.7293961-07:00</Value>
+        <Value>2016-09-16T01:38:34.4206637-07:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

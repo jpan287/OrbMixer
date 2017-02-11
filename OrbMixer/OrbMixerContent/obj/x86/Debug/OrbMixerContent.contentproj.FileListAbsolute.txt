@@ -1,2 +1,3 @@
 c:\users\visitordl5\documents\visual studio 2015\Projects\OrbMixer\OrbMixer\OrbMixerContent\obj\x86\Debug\OrbMixerContent.contentprojResolveAssemblyReference.cache
 C:\Users\JohnnyPan\Documents\Visual Studio 2015\Projects\OrbMixer\OrbMixer\OrbMixerContent\obj\x86\Debug\OrbMixerContent.contentprojResolveAssemblyReference.cache
+\\GMRSHARED\Xfers\Students\Blue Class\JohnnyPan\OrbMixer\OrbMixer\OrbMixerContent\obj\x86\Debug\OrbMixerContent.contentprojResolveAssemblyReference.cache
