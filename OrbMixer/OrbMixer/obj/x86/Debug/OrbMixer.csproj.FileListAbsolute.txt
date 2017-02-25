@@ -75,3 +75,32 @@ C:\Users\JohnnyPan\Documents\Visual Studio 2015\Projects\OrbMixer\OrbMixer\OrbMi
 \\GMRSHARED\Xfers\Students\Blue Class\JohnnyPan\OrbMixer\OrbMixer\OrbMixer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 \\GMRSHARED\Xfers\Students\Blue Class\JohnnyPan\OrbMixer\OrbMixer\OrbMixer\obj\x86\Debug\OrbMixer.exe
 \\GMRSHARED\Xfers\Students\Blue Class\JohnnyPan\OrbMixer\OrbMixer\OrbMixer\obj\x86\Debug\OrbMixer.pdb
+C:\Users\JohnnyPan\Documents\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\SwirlyBlue.xnb
+C:\Users\JohnnyPan\Documents\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\SwirlyGreen.xnb
+C:\Users\JohnnyPan\Documents\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\SwirlyPurple.xnb
+C:\Users\JohnnyPan\Documents\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\SwirlyRed.xnb
+C:\Users\JohnnyPan\Documents\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\SwirlyYellow.xnb
+C:\Users\JohnnyPan\Documents\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\BlueOrb.xnb
+C:\Users\JohnnyPan\Documents\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\GreenOrb.xnb
+C:\Users\JohnnyPan\Documents\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\PurpleOrb.xnb
+C:\Users\JohnnyPan\Documents\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\RedOrb.xnb
+C:\Users\JohnnyPan\Documents\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\YellowOrb.xnb
+C:\Users\JohnnyPan\Documents\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\SwirlyRainbow.xnb
+C:\Users\JohnnyPan\Documents\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\RainbowOrb.xnb
+C:\Users\JohnnyPan\Documents\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\OrbMixer.exe
+C:\Users\JohnnyPan\Documents\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\OrbMixer.pdb
+C:\Users\JohnnyPan\Documents\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\JohnnyPan\Documents\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\JohnnyPan\Documents\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\JohnnyPan\Documents\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\JohnnyPan\Documents\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\JohnnyPan\Documents\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\JohnnyPan\Documents\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\JohnnyPan\Documents\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\JohnnyPan\Documents\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\JohnnyPan\Documents\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\JohnnyPan\Documents\OrbMixer\OrbMixer\OrbMixer\obj\x86\Debug\OrbMixer.csprojResolveAssemblyReference.cache
+C:\Users\JohnnyPan\Documents\OrbMixer\OrbMixer\OrbMixer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\JohnnyPan\Documents\OrbMixer\OrbMixer\OrbMixer\obj\x86\Debug\OrbMixer.exe
+C:\Users\JohnnyPan\Documents\OrbMixer\OrbMixer\OrbMixer\obj\x86\Debug\OrbMixer.pdb
+C:\Users\JohnnyPan\Documents\OrbMixer\OrbMixer\OrbMixer\bin\x86\Debug\Content\spritefont.xnb

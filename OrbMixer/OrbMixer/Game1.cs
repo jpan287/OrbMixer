@@ -24,6 +24,9 @@ namespace OrbMixer
         Orb yellowOrb;
         OrbGraph testRow;
         KeyboardState ks;
+        MouseState ms;
+        SpriteFont font;
+        Vector2 mousePos;
 
         public Game1()
         {
@@ -49,7 +52,9 @@ namespace OrbMixer
             spriteBatch = new SpriteBatch(GraphicsDevice);
             row = new List<Orb>();
             ks = new KeyboardState();
+            ms = new MouseState();
 
+            font = Content.Load<SpriteFont>("spritefont");
             blueOrb = new Orb(Content.Load<Texture2D>("BlueOrb"), new Vector2(0, 0), Color.White);
             greenOrb = new Orb(Content.Load<Texture2D>("GreenOrb"), new Vector2(0, 0), Color.White);
             purpleOrb = new Orb(Content.Load<Texture2D>("PurpleOrb"), new Vector2(0, 0), Color.White);
@@ -78,10 +83,12 @@ namespace OrbMixer
         protected override void Update(GameTime gameTime)
         {
             // Allows the game to exit
+            ms = Mouse.GetState();
+            ks = Keyboard.GetState();
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
                 this.Exit();
-
-            testRow.Update(gameTime, ks);
+            mousePos = new Vector2(ms.X, ms.Y);
+            testRow.Update(gameTime, ks, ms);
 
             base.Update(gameTime);
         }
@@ -94,7 +101,7 @@ namespace OrbMixer
             // TODO: Add your drawing code here
             spriteBatch.Begin();
             testRow.Draw(spriteBatch);
-
+            spriteBatch.DrawString(font, string.Format("mouse position:{0, 1} ", mousePos), new Vector2(0, 0), Color.White);
 
             spriteBatch.End();
             base.Draw(gameTime);
